@@ -22,7 +22,7 @@ Chapter 1
 
 Basic form and sending an email, process user input
 
-Chapter 2
+*Chapter 2
 
 Create a database, save user input into the database
 
@@ -30,7 +30,7 @@ Chapter 3
 
 Create tables with unique rows and columns and a Primary Key, retrieve and save data from the database, utilize for loops to display results, allow user to delete data from the database
 
-Chapter 4
+*Chapter 4
 
 Form validation, combine PHP and HTML into a single page (merge files and use flags), use primary keys for database operations
 
